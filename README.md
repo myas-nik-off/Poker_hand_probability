@@ -1,4 +1,4 @@
-# Poker_hand_probability
+# Poker-hand-probability
 
 The probability of being dealt different combinations in Texas hold 'em Poker for 6 players.
 
