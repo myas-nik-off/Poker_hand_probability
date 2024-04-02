@@ -1,2 +1,5 @@
 # Poker_hand_probability
-The probability of being dealt different combinations in Texas hold 'em Poker for 6 players
+
+The probability of being dealt different combinations in Texas hold 'em Poker for 6 players.
+
+Co-authored-by: Aymen Omar AB Alharm, Chandrika Nayanakanthi Weerasinghe.
